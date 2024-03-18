@@ -1,0 +1,5 @@
+﻿  pb_01.cpp
+C:\Sources\COS_Pro.cpp\2급\ds01\ds01\pb_01.cpp(12,24): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Sources\COS_Pro.cpp\2급\ds01\ds01\pb_01.cpp(14,16): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
+C:\Sources\COS_Pro.cpp\2급\ds01\ds01\pb_01.cpp(16,16): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
+  ds01.vcxproj -> C:\Sources\COS_Pro.cpp\2급\ds01\x64\Debug\ds01.exe
