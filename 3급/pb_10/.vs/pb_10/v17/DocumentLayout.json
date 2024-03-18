@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Sources\\COS_Pro.cpp\\3\uAE09\\pb_10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B464AC97-CBAB-459D-A79C-D5A368B627F1}|pb_10\\pb_10.vcxproj|C:\\Sources\\COS_Pro.cpp\\3\uAE09\\pb_10\\pb_10\\pb_10.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B464AC97-CBAB-459D-A79C-D5A368B627F1}|pb_10\\pb_10.vcxproj|solutionrelative:pb_10\\pb_10.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "pb_10.cpp",
+              "DocumentMoniker": "C:\\Sources\\COS_Pro.cpp\\3\uAE09\\pb_10\\pb_10\\pb_10.cpp",
+              "RelativeDocumentMoniker": "pb_10\\pb_10.cpp",
+              "ToolTip": "C:\\Sources\\COS_Pro.cpp\\3\uAE09\\pb_10\\pb_10\\pb_10.cpp",
+              "RelativeToolTip": "pb_10\\pb_10.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-18T05:23:34.735Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

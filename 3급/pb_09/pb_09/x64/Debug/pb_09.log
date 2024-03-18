@@ -1,0 +1,3 @@
+﻿  pb_09.cpp
+C:\Sources\COS_Pro.cpp\3급\pb_09\pb_09\pb_09.cpp(17,13): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  pb_09.vcxproj -> C:\Sources\COS_Pro.cpp\3급\pb_09\x64\Debug\pb_09.exe
